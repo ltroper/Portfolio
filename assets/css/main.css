@@ -2324,6 +2324,11 @@ input, select, textarea {
 				padding: 0 2em 0 2em;
 			}
 
+			.containerz {
+				padding: 0 2em 0 2em;
+				background-image: url("../../images/dominical.jpeg");
+			}
+
 		/* Icons */
 
 			ul.icons li a {
